@@ -1,0 +1,24 @@
+{
+  "name": "svelte-learn",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^1.0.0-next.11",
+    "autoprefixer": "^10.4.0",
+    "eslint": "^8.3.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-svelte3": "^3.2.1",
+    "postcss": "^8.4.4",
+    "svelte": "^3.37.0",
+    "tailwindcss": "^2.2.19",
+    "vite": "^2.6.4"
+  },
+  "dependencies": {
+    "svelte-navigator": "^3.1.5"
+  }
+}
